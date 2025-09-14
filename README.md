@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @OlamideOyekale25
+- 👋 Hi, I’m Ola
 - 👀 I’m interested in Javascript, python and c++
 - 🌱 I’m currently learning python and Java
 - 💞️ I’m looking to collaborate on any project that could help me become better
